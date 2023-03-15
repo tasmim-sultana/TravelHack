@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "68018385463",
+    "firebase_url": "https://travelapp2-c534c-default-rtdb.firebaseio.com",
+    "project_id": "travelapp2-c534c",
+    "storage_bucket": "travelapp2-c534c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68018385463:android:e42c5d555f028a3ee085b2",
+        "android_client_info": {
+          "package_name": "com.example.travelhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68018385463-92mb0f5cv0qu218bi34ohcb62f9tuo68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhAAFWoB7y5hKCP7AZkaEJ3Kl84eyqTe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68018385463-92mb0f5cv0qu218bi34ohcb62f9tuo68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
